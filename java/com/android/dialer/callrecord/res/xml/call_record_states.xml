@@ -1349,5 +1349,8 @@
            https://www.gov.za/sites/default/files/gcis_document/201409/a70-02.pdf
     -->
     <country iso="za" allowed="true" />
-
+    <!-- Enable recording for Nigeria:
+       
+    -->
+    <country iso="ng" allowed="true" />
 </call-record-allowed-flags>
