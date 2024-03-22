@@ -1350,4 +1350,12 @@
     -->
     <country iso="za" allowed="true" />
 
+     -->
+    <country iso="ng" allowed="true" />
+
+    <!-- Enable recording for Nigeria:
+         
+    -->
+    <country iso="ng" allowed="true" />
+
 </call-record-allowed-flags>
